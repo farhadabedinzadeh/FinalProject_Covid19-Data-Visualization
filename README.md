@@ -1,1 +1,1 @@
-# FinalProject_Covid19-Data-Visualization
+# FinalProject Covid19 Data Visualization
