@@ -30,9 +30,7 @@ In the final project of this course, I used object-oriented programming techniqu
 - A toolbar for different functionalities
 
 
-for any further question please [contact me](farhaad.abedinzade@gmail.com_)
-
-
+for any further question please [contact me](farhaad.abedinzade@gmail.com) @ farhaad.abedinzade@gmail.com
 
 
 
